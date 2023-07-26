@@ -1,5 +1,5 @@
 {
-  "name": "@ignite-ui/react",
+  "name": "@ciarlini-ignite-ui/react",
   "version": "1.0.0",
   "description": "",
   "main": "./dist/index.js",
@@ -15,9 +15,9 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "@ignite-ui/eslint-config": "*",
-    "@ignite-ui/tokens": "*",
-    "@ignite-ui/ts-config": "*",
+    "@ciarlini-ignite-ui/eslint-config": "*",
+    "@ciarlini-ignite-ui/tokens": "*",
+    "@ciarlini-ignite-ui/ts-config": "*",
     "@types/react": "^18.2.15",
     "@types/react-dom": "^18.2.7",
     "react": "^18.2.0",
